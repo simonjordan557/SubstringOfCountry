@@ -1,0 +1,13 @@
+L:\Backup 19.1.18\Gamedev\Visual Studio 2019\My Programs\SubstringOfCountry\SubstringOfCountry\bin\Debug\netcoreapp3.1\SubstringOfCountry.exe
+L:\Backup 19.1.18\Gamedev\Visual Studio 2019\My Programs\SubstringOfCountry\SubstringOfCountry\bin\Debug\netcoreapp3.1\SubstringOfCountry.deps.json
+L:\Backup 19.1.18\Gamedev\Visual Studio 2019\My Programs\SubstringOfCountry\SubstringOfCountry\bin\Debug\netcoreapp3.1\SubstringOfCountry.runtimeconfig.json
+L:\Backup 19.1.18\Gamedev\Visual Studio 2019\My Programs\SubstringOfCountry\SubstringOfCountry\bin\Debug\netcoreapp3.1\SubstringOfCountry.runtimeconfig.dev.json
+L:\Backup 19.1.18\Gamedev\Visual Studio 2019\My Programs\SubstringOfCountry\SubstringOfCountry\bin\Debug\netcoreapp3.1\SubstringOfCountry.dll
+L:\Backup 19.1.18\Gamedev\Visual Studio 2019\My Programs\SubstringOfCountry\SubstringOfCountry\bin\Debug\netcoreapp3.1\SubstringOfCountry.pdb
+L:\Backup 19.1.18\Gamedev\Visual Studio 2019\My Programs\SubstringOfCountry\SubstringOfCountry\obj\Debug\netcoreapp3.1\SubstringOfCountry.csprojAssemblyReference.cache
+L:\Backup 19.1.18\Gamedev\Visual Studio 2019\My Programs\SubstringOfCountry\SubstringOfCountry\obj\Debug\netcoreapp3.1\SubstringOfCountry.AssemblyInfoInputs.cache
+L:\Backup 19.1.18\Gamedev\Visual Studio 2019\My Programs\SubstringOfCountry\SubstringOfCountry\obj\Debug\netcoreapp3.1\SubstringOfCountry.AssemblyInfo.cs
+L:\Backup 19.1.18\Gamedev\Visual Studio 2019\My Programs\SubstringOfCountry\SubstringOfCountry\obj\Debug\netcoreapp3.1\SubstringOfCountry.csproj.CoreCompileInputs.cache
+L:\Backup 19.1.18\Gamedev\Visual Studio 2019\My Programs\SubstringOfCountry\SubstringOfCountry\obj\Debug\netcoreapp3.1\SubstringOfCountry.dll
+L:\Backup 19.1.18\Gamedev\Visual Studio 2019\My Programs\SubstringOfCountry\SubstringOfCountry\obj\Debug\netcoreapp3.1\SubstringOfCountry.pdb
+L:\Backup 19.1.18\Gamedev\Visual Studio 2019\My Programs\SubstringOfCountry\SubstringOfCountry\obj\Debug\netcoreapp3.1\SubstringOfCountry.genruntimeconfig.cache
